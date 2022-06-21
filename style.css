@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: #eba3f7;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    font-size: 18px;
+    color: #000000;
+    background-color: #6ee9ff;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+
+}
+
+.main_div button{
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    margin-top: 30px;
+    width: 130px;
+   }
+
+.header_div{
+    background-color: #95b5f5;
+    color: #000000;
+}
+
+
